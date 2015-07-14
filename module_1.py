@@ -134,9 +134,6 @@ def get_discipline_with_highest_passing_rate_by_shool_year(school_year):
 def get_top_3_suc_performer_by_discipline_by_year(discipline, school_year):
   print "8. Top 3  SUC with highest passing rate in Accountancy for school year 2010-2011"
 
-
-
-
 def main():
   get_region_with_most_suc()
   get_region_with_most_enrollees_by_school_year('2010-2011')
